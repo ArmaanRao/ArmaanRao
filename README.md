@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Armaan C Rao</h1>
+<h1 align="center">Hi 👋, I'm Armaan</h1>
 <h3 align="center">A curious individual who enjoys learning about various fields of knowledge. I aspire to become a software developer, excelling in both technical and creative aspects of development.</h3>
 
 <img src="https://media.giphy.com/media/ZCes4khR2025X0rOLY/giphy.gif" alt="bootstrap"/>
